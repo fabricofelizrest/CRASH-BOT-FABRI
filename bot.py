@@ -8,7 +8,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 BOT_TOKEN = "TOKEN AQUI"
 ADMIN_ID = ID AQUI
-START_PY_PATH = "/workspaces/MHDDoS/start.py"
+START_PY_PATH = "/workspaces/CRASH-BOT-FABRI/start.py"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 db_lock = Lock()
