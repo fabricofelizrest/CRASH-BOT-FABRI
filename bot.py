@@ -79,7 +79,7 @@ def handle_start(message):
             """
 ```
 /crash UDP 143.92.125.230:10013 10 900```\n"""
-            "💠 KrizzZModz 🇵🇪 USERS VIP 💠"
+            ""
         ),
         reply_markup=markup,
         parse_mode="Markdown",
@@ -178,7 +178,7 @@ def handle_ping(message):
             f"⚙️ *Tipo:* {attack_type}\n"
             f"🧟‍♀️ *Threads:* {threads}\n"
             f"⏳ *Tiempo (ms):* {duration}\n\n"
-            f"💠 KrizzZModz 🇵🇪 USERS VIP 💠"
+            f"💠 CRASH BOT - FABRI VIP 💠"
         ),
         reply_markup=markup,
         parse_mode="Markdown",
