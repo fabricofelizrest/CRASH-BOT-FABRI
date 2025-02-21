@@ -6,8 +6,8 @@ from threading import Lock
 import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "TOKEN AQUI"
-ADMIN_ID = ID AQUI
+BOT_TOKEN = "8027723762:AAEoa3h3l0zIBcTDBmWA-G3NIAc74zQshb4"
+ADMIN_ID = 7799638812
 START_PY_PATH = "/workspaces/CRASH-BOT-FABRI/start.py"
 
 bot = telebot.TeleBot(BOT_TOKEN)
